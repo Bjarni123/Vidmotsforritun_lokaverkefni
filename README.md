@@ -12,3 +12,5 @@
 
 - D3JS (Data visualization)
 - P5JS (processing / fá aðgang að hardware)
+- [P5.capture](https://github.com/tapioca24/p5.capture) (taka upp verkefni)
+- [P5.dimensions](https://github.com/Smilebags/p5.dimensions.js) (calculate higher dimensions)
